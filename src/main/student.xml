@@ -1,0 +1,26 @@
+<Students>
+    <Student>
+        <Id>1</Id>
+        <Name>Tran Minh Tam</Name>
+        <Address>Quang Tri</Address>
+        <DateOfBirth>2005-02-26</DateOfBirth>
+    </Student>
+    <Student>
+        <Id>2</Id>
+        <Name>Nguyen Van A</Name>
+        <Address>Quang Tri</Address>
+        <DateOfBirth>2005-02-26</DateOfBirth>
+    </Student>
+    <Student>
+        <Id>3</Id>
+        <Name>Le Van B</Name>
+        <Address>Quang Tri</Address>
+        <DateOfBirth>2005-02-26</DateOfBirth>
+    </Student>
+    <Student>
+        <Id>4</Id>
+        <Name>Nguyen Van Teo</Name>
+        <Address>Quang Tri</Address>
+        <DateOfBirth>2005-02-26</DateOfBirth>
+    </Student>
+</Students>
